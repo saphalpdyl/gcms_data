@@ -1,0 +1,10 @@
+{
+ "kaggle": {
+  "schema": [
+   {
+    "title": "title",
+    "element_type": "INPUT"
+   }
+  ]
+ }
+}
